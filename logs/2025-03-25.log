@@ -1,0 +1,22 @@
+2025-03-25 14:04:09,962 - root - INFO - 222
+2025-03-25 15:22:58,364 - root - INFO - 404 page not found
+2025-03-25 15:23:50,551 - root - INFO - 404 page not found
+2025-03-25 15:23:50,552 - root - INFO - <Response [404]>
+2025-03-25 15:24:09,007 - root - INFO - http://192.168.31.178:6144\api/user/login
+2025-03-25 15:24:09,012 - root - INFO - 404 page not found
+2025-03-25 15:24:09,012 - root - INFO - <Response [404]>
+2025-03-25 15:24:26,235 - root - INFO - http://192.168.31.178:6144\api\user\login
+2025-03-25 15:24:26,239 - root - INFO - 404 page not found
+2025-03-25 15:24:26,239 - root - INFO - <Response [404]>
+2025-03-25 15:25:14,269 - root - INFO - http://192.168.31.178:6144/api/user/login
+2025-03-25 15:25:14,275 - root - INFO - {"hos_no":"72089837","ret_code":1,"ret_desc":"登录成功","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:25:14,276 - root - INFO - <Response [200]>
+2025-03-25 15:25:47,779 - root - INFO - http://192.168.31.178:6144/api/user/login
+2025-03-25 15:25:47,785 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:31:41,570 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:34:48,400 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:35:26,007 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:36:33,097 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTE4MTMsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.Wpah8fIahC7QSsFo7VRbpbK6RfFmSOiTSPfjVxUX74c","user_no":"SuperUser001"}
+2025-03-25 15:36:33,103 - root - INFO - {"ret_code":1,"ret_desc":"请求成功"}
+2025-03-25 16:26:43,113 - root - INFO - {"hos_no":"72089837","ret_code":1,"ret_desc":"登录成功","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTU1MDIsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.mJpDt3OtQyUP8uwrWnLKp5U3aHdaGiMIa5s4duNR3Ys","user_no":"SuperUser001"}
+2025-03-25 16:27:41,237 - root - INFO - {"hos_no":"72089837","ret_code":204,"ret_desc":"当前用户已登录","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI4OTU1MDIsInVzZXJfaWQiOiJTdXBlclVzZXIwMDEifQ.mJpDt3OtQyUP8uwrWnLKp5U3aHdaGiMIa5s4duNR3Ys","user_no":"SuperUser001"}

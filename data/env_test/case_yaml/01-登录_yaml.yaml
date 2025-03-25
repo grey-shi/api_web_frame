@@ -1,0 +1,12 @@
+-
+  feature: 模块
+  story: 接口
+  title: 用例标题
+  request:
+    method: post
+    url: http://192.168.31.178:6144/api/user/login
+    headers: null
+    params:
+      "name": "管理员"
+      "pwd": "3ddb996582bfdbaa7d8c9470ce5ccc52312cc9d661c0bf7a06eb92802d9bbe5d"
+  validate: null

@@ -1,0 +1,12 @@
+-
+  feature: 模块
+  story: 接口
+  title: 用例标题
+  request:
+    method: post
+    url: http://192.168.31.178:6144/api/user/logout
+    headers:
+      Authorization: $.token
+      Content-Type: application/json
+    params: null
+  validate: null
